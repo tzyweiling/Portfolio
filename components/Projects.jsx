@@ -5,45 +5,26 @@ import ProjectCard from "./ProjectCard";
 const projectData = [
     {
         id: 1,
-        title: "LinkedOut & About",
-        description: "This is a project.",
-        image: "/projects/linkedout&about.png",
-        gitUrl: "https://github.com/APU-Blockchain-Cryptocurrency-Club/LinkedOutAndAbout"
+        title: "McDonald's UI/UX Redesign",
+        description: "This is a project for Samsung UI/UX Hackathon 2023.",
+        image: "/projects/MCDRedesign.png",
+        gitUrl: "https://drive.google.com/file/d/1X4lV8WDC83urOg_D8XDZvzh2NGJj5Iy_/view?usp=sharing"
 
     },
     {
         id: 2,
-        title: "ClubDAO",
-        description: "This is a project.",
-        image: "/projects/clubdao.png",
-        gitUrl: "https://github.com/0xYudhishthra/ClubDAO"
+        title: "TicketWave",
+        description: "This is a project for Ethereum Kuala Lumpur 2023 Hackathon.",
+        image: "/projects/TicketWave.png",
+        gitUrl: "https://devfolio.co/projects/ticketwave-f4c7"
     },
     {
         id: 3,
-        title: "FundChat",
-        description: "This is a project for APUBCC Sparkathon & Solana Hyperdrive.",
-        image: "/projects/FundChat.png",
-        gitUrl: "https://github.com/cheongyeechian/fundchat"
+        title: "CiliLado Data Analysis",
+        description: "This is a data analytics project for CiliLado, a Malaysian chili brand.",
+        image: "/projects/CiliLado.png",
+        gitUrl: "https://github.com/JingYuan0926/ChiliLado"
     },
-    {
-        id: 4,
-        title: "Megamask",
-        description: "This is a project for ETH Online.",
-        image: "/projects/megamask.png",
-        gitUrl: "https://github.com/megamask"
-    }, {
-        id: 5,
-        title: "zkJom",
-        description: "This is a project fro ETHKL.",
-        image: "/projects/zkJom.png",
-        gitUrl: "https://github.com/trlau/zkJ0M"
-    }, {
-        id: 6,
-        title: "Attest Me",
-        description: "This is a project for ETH Global Superhack.",
-        image: "/projects/attestme.png",
-        gitUrl: "https://github.com/0xBenjamintan/attestMe"
-    }, 
 
 ];
 
