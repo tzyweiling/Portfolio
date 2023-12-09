@@ -2,7 +2,6 @@ import React from "react";
 import { useTransition, useState } from "react";
 import TabButton from "./TabButton";
 
-//1d
 const TAB_DATA = [
     {
         title: "Skills",
