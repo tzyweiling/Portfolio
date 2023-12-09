@@ -3,6 +3,7 @@ import TypeWritter from "typewriter-effect";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import dynamic from "next/dynamic";
+import Image from 'next/image';
 
 
 const HeroSection = () => {
@@ -66,7 +67,7 @@ const HeroSection = () => {
             transition={{ duration: 0.5 }}
           >
           <div className="w-[400px] h-[400px] relative z-0">
-            <img src="/Hero-Section.png" alt="hero section"
+            <Image src="/Hero-Section.png" alt="hero section"
               className=" transform rounded-full flex relative -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               width={450}
               height={450}
