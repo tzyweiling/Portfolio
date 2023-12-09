@@ -31,8 +31,8 @@ const TAB_DATA = [
         id: "education",
         content: (
           <ul className="list-disc pl-2">
-                <li>Taylor's University (Aug 2022 - Present)</li>
-                <li>Taylor's College (Aug 2021 - Aug 2022)</li>
+                <li>Taylor&apos;s University (Aug 2022 - Present)</li>
+                <li>Taylor&apos;s College (Aug 2021 - Aug 2022)</li>
                 <li>SMK Methodist ACS (2016 - 2020)</li>
           </ul>
         ),
@@ -57,10 +57,10 @@ const AboutMe = () => {
                 </div>
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h1 className="text-4xl font-bold text-white mb-4">About Me</h1>
-                    <p className="text-base text-justify lg:text-lg">I am a second-year Computer Science student at Taylor's University, specializing in Data Science and Artificial Intelligence.
+                    <p className="text-base text-justify lg:text-lg">I am a second-year Computer Science student at Taylor&apos;s University, specializing in Data Science and Artificial Intelligence.
                     My academic journey has been focused on gaining a solid foundation in various aspects of computer science, including programming, algorithms, data structures, and software development. 
                     I am passionate about exploring new technologies and applying theoretical knowledge to practical, real-world problems. 
-                    Throughout my studies, I've actively participated in coding projects, workshops, and hackathons to improve my skills and gain hands-on experience.
+                    Throughout my studies, I&apos;ve actively participated in coding projects, workshops, and hackathons to improve my skills and gain hands-on experience.
                     I believe in the importance of continuous learning and adaptability in the ever-evolving field of computer science. 
                     Looking forward, I am eager to further develop my skills, contribute to innovative projects, and ultimately make a positive impact in the world of technology.</p>
                     <div className="flex flex-row mt-8">
